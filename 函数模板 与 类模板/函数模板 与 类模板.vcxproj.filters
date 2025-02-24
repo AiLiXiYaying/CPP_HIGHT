@@ -18,9 +18,15 @@
     <ClInclude Include="FuncTemplate.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ClassTemplate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FuncTemplate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassTemplate.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
